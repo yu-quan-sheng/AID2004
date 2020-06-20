@@ -1,0 +1,31 @@
+练习：
+1. 在主目录中， 分别用绝对路径和相对路径展示month01下day03中内容
+
+    相对路径 ： ls -l  month01/day03
+    绝对路径 ： ls -l  /home/tarena/month01/day03
+
+2. 在/etc下进入主目录中month01，怎么切换
+
+    cd /home/tarena/month01
+    cd ../home/tarena/month01
+
+3. 选择一个文件，将其权限修改为当前用户可读写，小组中可读写，其他用户只读
+    chmod 664 abc.py
+
+作业 ： 1.  今天的命令使用熟练
+       2.  使用tar将第一阶段的month01文件夹压缩为 bz2格式
+       3.  字符串属性函数，列表的属性函数
+       4.  markdown编写
+
+
+
+
+
+
+
+
+
+
+
+
+
