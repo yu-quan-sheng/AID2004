@@ -1,6 +1,4 @@
-"""
-编写一个函数求100000以内质数之合 --》 统计函数执行时间（装饰器）
-"""
+
 
 import time
 from multiprocessing import Process
